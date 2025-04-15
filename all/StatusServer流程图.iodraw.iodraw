@@ -52,6 +52,12 @@
         <mxCell id="Nsq5NLcdlTtc4O_vjaH_-11" value="处理请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Nsq5NLcdlTtc4O_vjaH_-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nsq5NLcdlTtc4O_vjaH_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="400" as="sourcePoint" />
+            <mxPoint x="400" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
