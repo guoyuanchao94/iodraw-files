@@ -55,7 +55,7 @@
           <mxGeometry y="230" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-tQgtQ5KkbPnp1eYlCqQ-2" value="请求类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="310" width="120" height="60" as="geometry" />
+          <mxGeometry y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-tQgtQ5KkbPnp1eYlCqQ-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5CaTw11HbUPitKv-33af-10" target="-tQgtQ5KkbPnp1eYlCqQ-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
