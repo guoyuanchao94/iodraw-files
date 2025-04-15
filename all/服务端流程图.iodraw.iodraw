@@ -76,7 +76,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZk1pj5a4tWIDNxHXkNj-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KZk1pj5a4tWIDNxHXkNj-12" value="登录请求" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="440" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
