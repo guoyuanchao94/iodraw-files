@@ -85,7 +85,7 @@
         <mxCell id="KZk1pj5a4tWIDNxHXkNj-15" value="登录请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZk1pj5a4tWIDNxHXkNj-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KZk1pj5a4tWIDNxHXkNj-21" value="注册请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-90" y="440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZk1pj5a4tWIDNxHXkNj-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
