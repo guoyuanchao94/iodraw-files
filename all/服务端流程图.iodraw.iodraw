@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KZk1pj5a4tWIDNxHXkNj-5" value="有连接到达" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="72.5" y="250" width="135" height="60" as="geometry" />
+          <mxGeometry x="90" y="250" width="117.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KZk1pj5a4tWIDNxHXkNj-6" value="处理连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="360" width="120" height="40" as="geometry" />
