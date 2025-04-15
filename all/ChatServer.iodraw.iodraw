@@ -54,8 +54,8 @@
         <mxCell id="5CaTw11HbUPitKv-33af-10" value="处理连接，解析消息头部" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="230" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-tQgtQ5KkbPnp1eYlCqQ-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="300" width="80" height="80" as="geometry" />
+        <mxCell id="-tQgtQ5KkbPnp1eYlCqQ-2" value="请求类型" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
