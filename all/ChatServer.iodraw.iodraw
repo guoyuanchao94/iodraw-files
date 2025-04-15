@@ -51,7 +51,7 @@
             <mxPoint x="-50" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5CaTw11HbUPitKv-33af-10" value="处理连接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5CaTw11HbUPitKv-33af-10" value="处理连接，解析消息头部" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="230" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
