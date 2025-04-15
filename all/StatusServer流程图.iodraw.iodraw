@@ -16,7 +16,7 @@
             <mxPoint x="570" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nsq5NLcdlTtc4O_vjaH_-5" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nsq5NLcdlTtc4O_vjaH_-5" value="有新连接到达" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
