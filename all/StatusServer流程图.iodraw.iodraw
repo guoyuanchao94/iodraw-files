@@ -35,11 +35,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nsq5NLcdlTtc4O_vjaH_-9" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Nsq5NLcdlTtc4O_vjaH_-7">
-          <mxGeometry x="-0.244" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Nsq5NLcdlTtc4O_vjaH_-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="Nsq5NLcdlTtc4O_vjaH_-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="330" as="sourcePoint" />
