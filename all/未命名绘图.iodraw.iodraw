@@ -50,12 +50,12 @@
             <mxPoint x="260" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="140" y="320" />
-              <mxPoint x="250" y="320" />
-              <mxPoint x="250" y="380" />
-              <mxPoint x="300" y="380" />
+              <mxPoint x="260" y="320" />
+              <mxPoint x="260" y="350" />
+              <mxPoint x="300" y="350" />
               <mxPoint x="300" y="300" />
-              <mxPoint x="240" y="300" />
-              <mxPoint x="240" y="290" />
+              <mxPoint x="250" y="300" />
+              <mxPoint x="250" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
