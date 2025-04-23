@@ -23,8 +23,10 @@
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;即时通讯聊天软件&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="80" width="186" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="XNmDdvJMy52kx1SMi9Yv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNmDdvJMy52kx1SMi9Yv-2" target="XNmDdvJMy52kx1SMi9Yv-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="XNmDdvJMy52kx1SMi9Yv-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="XNmDdvJMy52kx1SMi9Yv-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XNmDdvJMy52kx1SMi9Yv-2" target="XNmDdvJMy52kx1SMi9Yv-17">
           <mxGeometry relative="1" as="geometry">
@@ -65,7 +67,7 @@
           <mxGeometry x="90" y="360" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;认证好友&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="380" width="40" height="150" as="geometry" />
+          <mxGeometry x="170" y="360" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;发送信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="375" width="40" height="155" as="geometry" />
