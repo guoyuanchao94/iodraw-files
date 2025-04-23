@@ -116,7 +116,7 @@
           <mxGeometry x="280" y="490" width="60" height="220" as="geometry" />
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-44" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户注册检查&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="388.5" y="490" width="41.5" height="230" as="geometry" />
+          <mxGeometry x="370" y="490" width="61.5" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
