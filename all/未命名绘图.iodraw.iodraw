@@ -148,7 +148,7 @@
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-50" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;客户端令牌token存储&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="490" width="60" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="XNmDdvJMy52kx1SMi9Yv-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;获取聊天服务ChatServer连接状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XNmDdvJMy52kx1SMi9Yv-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;获取聊天服务连接状态&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="490" width="100" height="220" as="geometry" />
         </mxCell>
       </root>
