@@ -133,16 +133,17 @@
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;ChatServer服务&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XNmDdvJMy52kx1SMi9Yv-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XNmDdvJMy52kx1SMi9Yv-39" target="XNmDdvJMy52kx1SMi9Yv-62">
+        <mxCell id="XNmDdvJMy52kx1SMi9Yv-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XNmDdvJMy52kx1SMi9Yv-39" target="XNmDdvJMy52kx1SMi9Yv-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1140" y="470" />
-              <mxPoint x="1140" y="470" />
+              <mxPoint x="1113" y="455" />
+              <mxPoint x="1140" y="455" />
+              <mxPoint x="1140" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-39" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;邮箱服务&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="360" width="140" height="60" as="geometry" />
+          <mxGeometry x="1050" y="360" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;处理HTTP请求&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="60" height="220" as="geometry" />
@@ -198,7 +199,7 @@
           <mxGeometry x="960" y="490" width="60" height="220" as="geometry" />
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-62" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;发送和存储验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="490" width="65" height="220" as="geometry" />
+          <mxGeometry x="1080" y="490" width="65" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
