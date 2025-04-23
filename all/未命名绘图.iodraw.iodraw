@@ -198,7 +198,7 @@
           <mxGeometry x="960" y="490" width="60" height="220" as="geometry" />
         </mxCell>
         <mxCell id="XNmDdvJMy52kx1SMi9Yv-62" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;发送和存储验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="490" width="90" height="230" as="geometry" />
+          <mxGeometry x="1120" y="490" width="65" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
