@@ -164,8 +164,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNmDdvJMy52kx1SMi9Yv-54" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="XNmDdvJMy52kx1SMi9Yv-54" value="TCP长连接服务" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="500" width="60" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
