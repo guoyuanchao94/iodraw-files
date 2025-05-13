@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="200" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7E8vzoiIXLRWhm7wyMMy-3" value="用户登录验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="300" width="50" height="190" as="geometry" />
+          <mxGeometry x="220" y="300" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="7E8vzoiIXLRWhm7wyMMy-4" value="用户注册验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="300" width="50" height="190" as="geometry" />
