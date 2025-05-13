@@ -26,13 +26,13 @@
           <mxGeometry x="210" y="290" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-9" value="添加好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="280" width="140" height="50" as="geometry" />
+          <mxGeometry x="360" y="270" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-11" value="认证好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="180" width="140" height="50" as="geometry" />
+          <mxGeometry x="274" y="360" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-14" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="180" width="140" height="50" as="geometry" />
+          <mxGeometry x="510" y="290" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
