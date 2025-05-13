@@ -17,13 +17,13 @@
           <mxGeometry x="320" y="280" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BHaTFMHbZo52zARrNyBh-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端认证好友请求处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="60" height="190" as="geometry" />
+          <mxGeometry x="440" y="280" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BHaTFMHbZo52zARrNyBh-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端搜索好友请求处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="290" width="60" height="190" as="geometry" />
+          <mxGeometry x="560" y="280" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BHaTFMHbZo52zARrNyBh-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端文本消息处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="290" width="60" height="190" as="geometry" />
+          <mxGeometry x="680" y="280" width="60" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
