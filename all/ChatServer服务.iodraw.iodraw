@@ -13,10 +13,10 @@
         <mxCell id="BHaTFMHbZo52zARrNyBh-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端登录验证&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="60" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="BHaTFMHbZo52zARrNyBh-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;客户端添加好友请求处理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BHaTFMHbZo52zARrNyBh-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;客户端&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;添加好友请求处理&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="60" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="BHaTFMHbZo52zARrNyBh-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端认证好友请求处理&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BHaTFMHbZo52zARrNyBh-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;认证好友请求处理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="280" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="BHaTFMHbZo52zARrNyBh-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;客户端&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;搜索好友请求处理&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
