@@ -16,6 +16,9 @@
         <mxCell id="D601HPAMZ2fIKvh9_B-M-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D601HPAMZ2fIKvh9_B-M-2" target="D601HPAMZ2fIKvh9_B-M-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="D601HPAMZ2fIKvh9_B-M-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D601HPAMZ2fIKvh9_B-M-2" target="D601HPAMZ2fIKvh9_B-M-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="140" height="50" as="geometry" />
         </mxCell>
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-11" value="认证好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="180" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D601HPAMZ2fIKvh9_B-M-14" value="发送消息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
