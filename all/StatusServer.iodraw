@@ -21,7 +21,7 @@
         <mxCell id="T3vhIAmYRVRQ2et6EZFP-4" value="StatusServer服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T3vhIAmYRVRQ2et6EZFP-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户登录验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;令牌token生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="60" height="190" as="geometry" />
         </mxCell>
         <mxCell id="T3vhIAmYRVRQ2et6EZFP-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户注册验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
