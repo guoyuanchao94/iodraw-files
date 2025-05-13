@@ -4,6 +4,64 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3vhIAmYRVRQ2et6EZFP-2" target="T3vhIAmYRVRQ2et6EZFP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-2" value="即时通讯软件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="180" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T3vhIAmYRVRQ2et6EZFP-4" target="T3vhIAmYRVRQ2et6EZFP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="360" />
+              <mxPoint x="540" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-4" value="GateServer服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户登录验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="390" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户注册验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="390" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;请求验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="T3vhIAmYRVRQ2et6EZFP-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="360" />
+              <mxPoint x="430" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="T3vhIAmYRVRQ2et6EZFP-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="360" as="sourcePoint" />
+            <mxPoint x="550" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="650" y="360" />
+              <mxPoint x="780" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;忘记密码验证&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="390" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="T3vhIAmYRVRQ2et6EZFP-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="T3vhIAmYRVRQ2et6EZFP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
