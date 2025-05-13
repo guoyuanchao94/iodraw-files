@@ -23,7 +23,7 @@
           <mxGeometry x="280" y="180" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-7" value="搜索好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="140" height="50" as="geometry" />
+          <mxGeometry x="210" y="290" width="70" height="170" as="geometry" />
         </mxCell>
         <mxCell id="D601HPAMZ2fIKvh9_B-M-9" value="添加好友" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="280" width="140" height="50" as="geometry" />
